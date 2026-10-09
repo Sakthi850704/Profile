@@ -32,8 +32,14 @@ I focus on building secure, scalable, and reliable cloud infrastructure using AW
 ### Cloud Engineer L2 | Star Health and Allied Insurance | Chennai | On-Site 
 **October 2024 – August 2025**
 
-- Insurance domain experience.
-- Cloud infrastructure and security-related work, where applicable to the actual role.
+- Managed AWS workloads and Terraform-based infrastructure deployments.
+- Managed CI/CD pipelines and resolved environment variable issues and deployment failures.
+- Performed OS and application patching ensuring compliance.
+- Upgraded Kubernetes clusters, Docker images, and database versions.
+- Implemented IAM policies and resolved security issues.
+- Supported ITSM processes including incident and release management.
+- Implemented monitoring, alerting, and incident response processes.
+- Performed RDS upgrades, patching, and disaster recovery activities. 
 
 ### AWS Devops Engineer | SYSQIT Solutions | Pune | Remote
 **March 2022 – Sep 2024**
@@ -78,7 +84,7 @@ I focus on building secure, scalable, and reliable cloud infrastructure using AW
 
 - GitHub: https://github.com/Sakthi850704
 - Portfolio: https://sakthi850704.github.io/PortFolio/
-- LinkedIn: linkedin.com/in/shakthi8510
+- LinkedIn: www.linkedin.com/in/shakthi8510
 
 ---
 
