@@ -3,7 +3,7 @@
 
 ### AWS Cloud Security Engineer | AWS DevOps Engineer
 
-Cloud and DevOps professional with 6+ years of experience across cloud infrastructure, automation, cloud security, and enterprise environments.
+Cloud and DevOps professional with 4+ years of experience across cloud infrastructure, automation, cloud security, and enterprise environments.
 
 I focus on building secure, scalable, and reliable cloud infrastructure using AWS, Infrastructure as Code, container technologies, and cloud security tools.
 
